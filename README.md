@@ -4,4 +4,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by [Najma] (https://github.com/ntechd) for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Najma](https://github.com/ntechd) for the Lighthouse Labs Web Development Bootcamp.
